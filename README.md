@@ -8,7 +8,7 @@ Vous pouvez tester cette messagerie sur [ICI](https://kevinrajon.fr/messagerie).
   - Test des méthodes POST et GET avec Postman
   - Création d'une interface en HTML
   - Création d'un script en JS afin de rendre l'interface utilisable
-  - Mise en place de messages d'erreur et des securités de base contre les injections xss et autres
-  - Amelioration de l'interface afin de la rendre plus attrayante
+  - Mise en place de messages d'erreur et des sécurités de base contre les injections xss et autres
+  - Amélioration de l'interface afin de la rendre plus attrayante
 ### Voici le résultat final 
 ![](img/messagerie.png)
